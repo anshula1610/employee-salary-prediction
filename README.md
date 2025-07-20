@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Salary%20Prediction-forestgreen?style=for-the-badge&logo=python" alt="ML Badge"/>
 </p>
@@ -84,3 +85,6 @@ Features used:
 
 Numeric	Categorical
 age, educational‑num, hours‑per‑week, capital‑gain, capital‑loss	workclass, occupation
+=======
+# employee-salary-prediction
+>>>>>>> 5d12a38a0bce272a9c994d963f665d44f4f065bf
